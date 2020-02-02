@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+}
+.bg {
+  background-image: url("https://wallpapercave.com/wp/m7ZqXq1.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.btnPosition {
+	position: relative;
+	top: 530px;
+	left: 690px;
+}
+
+/* .container {
+	visibility: hidden;
+} */
+
+table {
+	width: auto;
+	font: 17px Calibri;
+
+}
+table, th, td {
+	background-color: rgba(0, 0, 0, 0.85);
+	color: white;
+	border-collapse: collapse;
+	padding: 2px 3px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
